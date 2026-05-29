@@ -21,7 +21,7 @@ Oh, what do I say about me? Well, I love coding and I'm always learning more (ev
 ## *Still* more!?! How about some quotes I really like:
 
 From Mass Effect 2
- - "The universe is a dark place. I’m trying to make it brighter before I die." --Thane Krios, Mass Effect 2
+ - "The universe is a dark place. I’m trying to make it brighter before I die." --Thane Krios
 
 Favorite exchange from ST:DS9
  - **Dr. Julian Bashir:** You know, I still have a lot of questions to ask you about your past.
