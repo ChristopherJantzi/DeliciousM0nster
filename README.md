@@ -17,19 +17,19 @@ Oh, what do I say about me? Well, I’m a data scientist, trained experimental p
 "The universe is a dark place. I’m trying to make it brighter before I die." --Thane Krios, Mass Effect 2
 
 Favorite exchange from ST:DS9
-**Dr. Julian Bashir:** You know, I still have a lot of questions to ask you about your past.
-**Elim Garak:** I have given you all the answers I'm capable of.
-**Dr. Julian Bashir:** You've given me answers all right; but they were all different. What I want to know is, out of all the stories you told me, which ones were true and which ones weren't?
-**Elim Garak:** My dear Doctor, they're all true.
-**Dr. Julian Bashir:** Even the lies?
-**Elim Garak:** (*leans in, smiling*) Especially the lies.
+ - **Dr. Julian Bashir:** You know, I still have a lot of questions to ask you about your past.
+ - **Elim Garak:** I have given you all the answers I'm capable of.
+ - **Dr. Julian Bashir:** You've given me answers all right; but they were all different. What I want to know is, out of all the stories you told me, which ones were true and which ones weren't?
+ - **Elim Garak:** My dear Doctor, they're all true.
+ - **Dr. Julian Bashir:** Even the lies?
+ - **Elim Garak:** (*leans in, smiling*) Especially the lies.
 
 
 ## *Still* more!?! Poetry!!!
 
-[**Sea Fever**, *John Masefield*](https://www.poetryfoundation.org/poems/54932/sea-fever-56d235e0d871e): I actually learned this from a guy taking a poetry class when I was in the Navy. I think I still have a love affair with the sea even if I was never a fan of the Navy (I do *not* recommend unless you're really sure . . . it wasn't my jam).
-[**The Road Not Taken**, *Robert Frost*](https://www.poetryfoundation.org/poems/44272/the-road-not-taken): I recently learned the story behind this poem and it made it even better. Short version, Frost had a friend (a fellow poet) that would always hem and haw about the path they chose when they took walks. Dude has some real FOMO about it. Frost wrote this to *lightly chide* his friend about worrying too much. His friend thought it was very serious and was very aghast to learn it was slightly mocking. I can't remember if Frost got a chance to apologize, but the story is [here](https://www.poetryfoundation.org/audio/90909/a-misunderstood-chestnut).
-[**The Solitary Reaper**, *William Wordsworth*](https://www.poetryfoundation.org/poems/45554/the-solitary-reaper): I'm a huge Mass Effect fan and one of the missions in ME1 was named after a line from this poem ("Old, Unhappy, Far-Off Things", only available if you play with a spacer background). I don't think of hte game anymore when I read it, I think about memories and how so many things in life are ephemeral, but leave these really lasting impacts on us. Anyway, solid poem, imo.
+ - [**Sea Fever**, *John Masefield*](https://www.poetryfoundation.org/poems/54932/sea-fever-56d235e0d871e): I actually learned this from a guy taking a poetry class when I was in the Navy. I think I still have a love affair with the sea even if I was never a fan of the Navy (I do *not* recommend unless you're really sure . . . it wasn't my jam).
+ - [**The Road Not Taken**, *Robert Frost*](https://www.poetryfoundation.org/poems/44272/the-road-not-taken): I recently learned the story behind this poem and it made it even better. Short version, Frost had a friend (a fellow poet) that would always hem and haw about the path they chose when they took walks. Dude has some real FOMO about it. Frost wrote this to *lightly chide* his friend about worrying too much. His friend thought it was very serious and was very aghast to learn it was slightly mocking. I can't remember if Frost got a chance to apologize, but the story is [here](https://www.poetryfoundation.org/audio/90909/a-misunderstood-chestnut).
+ - [**The Solitary Reaper**, *William Wordsworth*](https://www.poetryfoundation.org/poems/45554/the-solitary-reaper): I'm a huge Mass Effect fan and one of the missions in ME1 was named after a line from this poem ("Old, Unhappy, Far-Off Things", only available if you play with a spacer background). I don't think of hte game anymore when I read it, I think about memories and how so many things in life are ephemeral, but leave these really lasting impacts on us. Anyway, solid poem, imo.
 
 
 
